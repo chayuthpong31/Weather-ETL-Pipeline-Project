@@ -58,7 +58,6 @@ API Documentation - https://open-meteo.com/en/docs
 
 ## Results
 1. Design Data Schema
-![data schema](images/schema.jpg)
 2. Build Pipeline dag and sent to aiflow
 ![airflow dag](images/Airflow.jpeg)
 3. Pipeline 
